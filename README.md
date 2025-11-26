@@ -6,8 +6,8 @@ This repository contains several graph datasets.
 | Name | Vertices | Edges | Triangles |
 |----------|---------|--------------|----------|
 | Powergrid | 4941 | 6594 | 651 |
-| Slashdot | 77360 | 905468 | 551724 |
-| Twitter | 81306 | 2420766 | 13082506 |
+| [Slashdot](https://snap.stanford.edu/data/soc-Slashdot0811.html) | 77360 | 905468 | 551724 |
+| [Twitter](https://snap.stanford.edu/data/ego-Twitter.html) | 81306 | 2420766 | 13082506 |
 | LiveJournal | 4847571 | 68993773 | 285730264 |
 
 
